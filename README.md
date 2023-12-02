@@ -6,6 +6,4 @@
                   ### Социальные сети
                   
                    
-                <p align="left"> 
-                      <a href="https://discord.com/users/harishma12" target="_blank" rel="noreferrer"> <picture> <source media="(предпочитает -color-scheme: темный)" srcset="undefined" /> <source media="(предпочитает-color-scheme: светлый)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main /public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32 " height="32" /> </picture> </a> 
-                      <a href="https://www.github.com/Екатерина" target="_blank" rel="noreferrer"> <picture> <source media ="(предпочитает-цветовую-схему: темный)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media ="(предпочитает цветовую схему: светлую)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </ р>
+     
